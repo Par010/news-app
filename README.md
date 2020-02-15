@@ -13,3 +13,9 @@
 * In case of any error, the App renders an error page with try again button.
 
 ### Screenshots of the App 
+----
+
+<img src="https://user-images.githubusercontent.com/17086855/74593227-23348500-507d-11ea-833c-fc23ff9f3dd6.jpeg" align="left" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/17086855/74593228-26c80c00-507d-11ea-89de-382b74e378f0.jpeg" width="300" align="right" height="500">
+<img src="https://user-images.githubusercontent.com/17086855/74593230-2760a280-507d-11ea-9db6-9b793a73d902.jpeg" width="300" align="left" height="500">
+<img src="https://user-images.githubusercontent.com/17086855/74593229-26c80c00-507d-11ea-9372-46243cb46596.jpeg" width="300" align="right" height="500">
